@@ -1,0 +1,30 @@
+{
+  "brand": "큐픽",
+  "brand_en": "Q.PICK",
+  "tagline": "인스타 릴스 속 살림·자취 꿀템 모음 ✨",
+  "tagline_lines": ["인스타 릴스 속", "살림·자취 꿀템 모음 ✨"],
+  "intro": "릴스에서 소개한 꿀템 링크만 모아뒀어요. 궁금한 카드를 누르면 바로 볼 수 있어요.",
+  "links": [
+    { "label": "@q.pickqpick 스레드", "url": "https://www.threads.com/@q.pickqpick", "icon": "threads" },
+    { "label": "네이버 블로그", "url": "https://blog.naver.com/kkchosm", "icon": "blog" },
+    { "label": "쿠팡 핫딜 알림방 (오픈채팅)", "url": "https://open.kakao.com/o/pxe6BzWi", "icon": "chat" }
+  ],
+  "disclosure": "이 페이지의 상품 링크는 쿠팡 파트너스 및 네이버 쇼핑 커넥트 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "notice": "릴스 속 이미지는 AI로 생성한 연출 이미지를 포함합니다.",
+  "products": [
+    {
+      "id": "01",
+      "category": "주방",
+      "name": "하루의공간 인덕션 보호 실리콘 매트",
+      "option": "20cm · 화이트",
+      "hook": "국물 넘침·상판 긁힘 방지, 물로 쓱 닦으면 끝!",
+      "price": "8,900원",
+      "original_price": "11,000원",
+      "discount": "19%",
+      "main": { "label": "쿠팡에서 보기", "url": "https://link.coupang.com/a/iY2p7ahnJQ" },
+      "sub": [
+        { "label": "네이버 클립 영상", "url": "https://naver.me/F5s6olOa", "icon": "play" }
+      ]
+    }
+  ]
+}
