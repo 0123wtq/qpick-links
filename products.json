@@ -25,6 +25,20 @@
       "sub": [
         { "label": "네이버 클립 영상", "url": "https://naver.me/F5s6olOa", "icon": "play" }
       ]
+    },
+    {
+      "id": "02",
+      "category": "주방",
+      "name": "디어커스 처마형 싱크대 물막이 그란데",
+      "option": "실리콘 처마형 물막이 · 그란데",
+      "hook": "설거지할 때 튀는 물을 다 받아줘서 바닥이 늘 말라 있어요.",
+      "price": "23,900원",
+      "original_price": "36,900원",
+      "discount": "35%",
+      "main": { "label": "네이버에서 보기", "url": "https://naver.me/GbykhjVQ" },
+      "sub": [
+        { "label": "네이버 클립 영상", "url": "https://naver.me/xEX8mqxy", "icon": "play" }
+      ]
     }
   ]
 }
