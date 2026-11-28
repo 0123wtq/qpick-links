@@ -39,6 +39,20 @@
       "sub": [
         { "label": "네이버 클립 영상", "url": "https://naver.me/xEX8mqxy", "icon": "play" }
       ]
+    },
+    {
+      "id": "03",
+      "category": "주방",
+      "name": "실바트 까리노 IH 인덕션 프라이팬 28cm",
+      "option": "28cm · 인덕션 겸용",
+      "hook": "코팅 벗겨져 눌어붙는 팬 대신, 계란이 스르륵 넘어가고 설거지도 물로 쓱 끝.",
+      "price": "39,900원",
+      "original_price": "83,790원",
+      "discount": "52%",
+      "main": { "label": "네이버에서 보기", "url": "https://naver.me/Gi0SKXM4" },
+      "sub": [
+        { "label": "네이버 클립 영상", "url": "https://naver.me/5vJ80aFq", "icon": "play" }
+      ]
     }
   ]
 }
